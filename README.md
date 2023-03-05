@@ -4,7 +4,7 @@
 
 To run .py program use:
 
-pip install -r requirements.txt
-python3 crypt.py
+<ul>pip install -r requirements.txt</ul>
+<ul>python3 crypt.py</ul>
 
-Python >= 3.7
+<b>Python >= 3.7</b>
