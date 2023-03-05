@@ -6,5 +6,5 @@ To run .py program use:
 
 <li>pip install -r requirements.txt</li>
 <li>python3 crypt.py</li>
-
+<br>
 <b>Python >= 3.7</b>
