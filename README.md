@@ -3,8 +3,8 @@
 <p style="text-align: center;">A program for encrypting and decrypting files with the military AES algorithm with custom password.</p>
 
 To run .py program use:
-<li>
-<ul>pip install -r requirements.txt</ul>
-<ul>python3 crypt.py</ul>
-</li>
+
+<li>pip install -r requirements.txt</li>
+<li>python3 crypt.py</li>
+
 <b>Python >= 3.7</b>
